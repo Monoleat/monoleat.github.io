@@ -1,7 +1,6 @@
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"right":"var:preset|spacing|50","left":"var:preset|spacing|50","top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:group {"align":"wide","layout":{"type":"flex","justifyContent":"space-between"}} -->
 <div class="wp-block-group alignwide"><!-- wp:site-title {"fontSize":"medium"} /-->
-
 <!-- wp:image {"id":6,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image size-full"><img src="https://monoleatcom.files.wordpress.com/2023/11/m-logo-concept.jpg" alt="" class="wp-image-6"/></figure>
 <!-- /wp:image --></div>
