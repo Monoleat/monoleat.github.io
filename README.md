@@ -4,4 +4,4 @@
 <figure class="wp-block-image"><img src="https://github.com/Monoleat/monoleat.github.io/blob/main/m-logo-concept.jpg" alt="" class="wp-image-6"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
-https://github.com/Monoleat/monoleat.github.io/blob/main/m-logo-concept.jpg
+
